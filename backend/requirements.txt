@@ -1,0 +1,18 @@
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+# Face recognition
+insightface==0.7.3
+onnxruntime==1.17.0
+opencv-python-headless==4.9.0.80
+numpy==1.24.3
+scipy==1.12.0
+
+# Image processing
+Pillow==10.2.0
+
+# Utils
+python-dotenv==1.0.1
